@@ -1,8 +1,8 @@
 # Math for Data Science
 Useful resources to improve your Math skills -
 
-**Videos**
-**======**
+## Videos
+
 
 1) https://www.youtube.com/watch?v=09_LlHjoEiY - GRAPH THEORY
 
